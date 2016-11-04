@@ -9,11 +9,23 @@
     "skirt"
   ],
   "imageURLs": [
-    "data/images/1.jpg",
-    "data/images/2.jpg"
+    "data/images/2.jpg",
+    "data/images/mukul0.jpg",
+    "data/images/mukul1.jpg",
+    "data/images/mukul3.jpg",
+    "data/images/vikas1.jpg",
+    "data/images/vikas2.jpg",
+    "data/images/vikas3.jpg"
   ],
   "annotationURLs": [
-    "data/annotations/1.png",
-    "data/annotations/2.png"
+    "data/annotations/2.jpg",
+    "data/annotations/mukul0.jpg",
+    "data/annotations/mukul1.jpg",
+    "data/annotations/mukul3.jpg",
+    "data/annotations/vikas1.jpg",
+    "data/annotations/vikas2.jpg",
+    "data/annotations/vikas3.jpg"
+
   ]
 }
+
